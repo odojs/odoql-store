@@ -1,0 +1,22 @@
+{
+  "name": "odoql-store",
+  "version": "0.0.1",
+  "description": "Custom coded data stores for OdoQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/odojs/odoql-store.git"
+  },
+  "keywords": [
+    "odoql"
+  ],
+  "author": "Thomas Coats",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odojs/odoql-store/issues"
+  },
+  "homepage": "https://github.com/odojs/odoql-store"
+}

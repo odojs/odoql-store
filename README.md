@@ -1,2 +1,3 @@
-# odoql-store
+# OdoQL Store
+
 Custom coded data stores for OdoQL
