@@ -1,6 +1,6 @@
 {
   "name": "odoql-store",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Custom coded data stores for OdoQL",
   "main": "index.js",
   "scripts": {
