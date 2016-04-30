@@ -9,6 +9,9 @@ module.exports = function(options) {
     },
     params: {}
   };
+  if (options == null) {
+    options = {};
+  }
   if (options.name == null) {
     options.name = 'store';
   }

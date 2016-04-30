@@ -5,6 +5,7 @@ module.exports = (options) ->
       store.stores[name] = cb
       store
     params: {}
+  options ?= {}
   options.name ?= 'store'
   store.params[options.name] = (exe, params) ->
     # support single params and no source
